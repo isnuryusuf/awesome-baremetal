@@ -61,6 +61,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 * [OVHcloud bare metal](https://www.ovh.com/world/dedicated-servers) - `x86_64`
 * [Scaleway.com](https://www.scaleway.com) - `x86_64` & `arm64` ([ARM support is being deprecated](https://www.theregister.com/2020/04/21/scaleway_arm64_cloud_end_of_life/))
 * [Vultr.com](https://www.vultr.com/products/bare-metal/) - `x86_64`
+* [Biznet Gio](https://www.biznetgio.com/en/product/neo-metal) - `x86_64`
 
 ## Open Source Virtualization
 
